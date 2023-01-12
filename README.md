@@ -56,4 +56,4 @@ or
 push_swap "2 5" "3 1 6"
 ```
 
-:exclamation::exclamation::exclamation: Input numbers can **_not_** contain duplicates nor floating point numbers :exclamation::exclamation::exclamation:
+Input numbers should **_not_** contain duplicates nor floating point numbers !
